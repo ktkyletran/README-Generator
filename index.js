@@ -63,7 +63,6 @@ const promptUser = () => {
 const generateReadme = (answers) =>
 `
 # ${answers.title}
-
 <h1>Table of Contents:</h1>
 <ul>
   <li><a href="#description">Description</a></li>
@@ -74,26 +73,18 @@ const generateReadme = (answers) =>
   <li><a href="#tests">Tests</a></li>
   <li><a href="#questions">Questions</a></li>
 </ul>
-
 <h1 id="description">Description:</h1>
 <p>${answers.description}</p>
-
 <h1 id="installation">Installation</h1>
 <p>${answers.install}</p>
-
 <h1 id="usage">Usage</h1>
 <p>${answers.usage}</p>
-
 <h1 id="license">License</h1>
-
-${answers.license}
-
+<p>${answers.title} is licensed by ${answers.license}</p>
 <h1 id="contributors">Contributors</h1>
 <p>${answers.contributors}</p>
-
 <h1 id="tests">Tests</h1>
 <p>${answers.tests}</p>
-
 <h1 id="questions">Questions</h1>
 <p>Please visit the project's GitHub page and email for any questions.</p>
 <ul>
