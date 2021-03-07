@@ -3,8 +3,8 @@
 <h1>Table of Contents:</h1>
 <ul>
   <li><a href="#description">Description</a></li>
-  <li><a href="#installation">Installation</a></li>
   <li><a href="#walk-thru">Walk Through Video</a></li>
+  <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contributors">Contributors</a></li>
