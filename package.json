@@ -1,0 +1,24 @@
+{
+  "name": "README-Generator",
+  "version": "1.0.0",
+  "description": "README-Generator is an application that generates a professional README file by asking the user a series of questions regarding their project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktkyletran/README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktkyletran/README-Generator/issues"
+  },
+  "homepage": "https://github.com/ktkyletran/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "util": "^0.12.3"
+  }
+}
