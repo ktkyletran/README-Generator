@@ -4,6 +4,7 @@
 <ul>
   <li><a href="#description">Description</a></li>
   <li><a href="#installation">Installation</a></li>
+  <li><a href="#walk-thru">Walk Through Video</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contributors">Contributors</a></li>
@@ -12,7 +13,11 @@
 </ul>
 
 <h1 id="description">Description:</h1>
-<p>An app that generates a README file based on a series of prompts regarding the file criteria.</p>
+<p>An app that generates a README file based on a series of prompts regarding the file criteria. The file "README-Test.md" is an example file created using this app.</p>
+
+<h1 id="walk-thru">Walk Through Video</h1>
+<p>The video in the link demonstrates the apps functionality and how to use it.</p>
+<a href="https://drive.google.com/file/d/1N9Me9wg0IDMQn24IdJMDP2ef0OUHeem9/view">Video Link</a>
 
 <h1 id="installation">Installation</h1>
 
